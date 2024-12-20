@@ -10,9 +10,9 @@ export const projects: Project[] = [
   {
     title: "LeftOverLove",
     description: "The Food Donation Platform is a web application designed to tackle food waste by creating an efficient, user-friendly system that connects food donors with individuals and organizations in need",
-    tech: ["Next.js", "TypeScript", "React", "Node", "MongoDB", "Tailwind CSS"],
-    github: "https://github.com/cryptonix21/LeftOverLove",
-    live: "https://leftoverlove.xyz"
+    tech: ["Next.js", "TypeScript", "React", "Docker", "Tailwind CSS"],
+    github: "https://github.com/blockscout/blockscout",
+    live: "https://scan.pixelsoftwares.com/"
   },
   {
     title: "PixelBlockscan",
